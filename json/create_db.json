@@ -1,0 +1,50 @@
+{
+    "parent": {
+        "type": "page_id",
+        "page_id": null
+    },
+
+    "title": [
+        {
+            "type": "text",
+            "text": {
+                "content": null,
+                "link": null
+            }
+        }
+    ],
+    
+    "properties": {
+        "title": {
+            "title": {}
+        },
+        "Description": {
+            "rich_text": {}
+        },
+        "url": {
+            "url": {}
+        },
+        "Progress": {
+            "type": "multi_select",
+            "multi_select": {
+                "options": [
+                        {
+                            "name": "Proceeding",
+                            "color": "blue"
+                        },
+                        {
+                            "name": "Done",
+                            "color": "green"
+                        },
+                        {
+                            "name": "before starting",
+                            "color": "gray"
+                        }
+                    ]
+                }
+            },
+        "Date": {
+            "date": {}
+        }
+    }
+}

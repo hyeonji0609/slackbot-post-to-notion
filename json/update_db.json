@@ -1,0 +1,32 @@
+{
+    "parent": { "database_id": "11eebd7fcee44a7880131367bef1ca1b" },
+    "properties": {
+      "title": {
+        "title": [
+          {
+            "text": {
+              "content": null
+            }
+          }
+        ]
+      },
+      "Description": {
+        "rich_text": [
+          {
+            "text": {
+              "content": null
+            }
+          }
+        ]
+      },
+      "Date": {
+        "date": {
+          "start": null
+        }
+      },
+      "URL": {
+        "url": null
+    }
+    }
+  }
+  
